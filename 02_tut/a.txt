@@ -1,0 +1,10 @@
+nodemon
+
+npm init -y   answers ye to all qs. b
+
+npm install   install all modules for node_modules from package.jso, do when clone repo.
+
+
+npm i nodemon -D     dev dependenci.
+npm i nodemon@2.0.10  -> change to this versio.
+npm update   -> check updates for all package.
